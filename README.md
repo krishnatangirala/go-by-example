@@ -1,2 +1,2 @@
 # go-by-example
-GoLang Examples
+GoLang Examples README
